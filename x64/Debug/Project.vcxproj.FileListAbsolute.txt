@@ -1,0 +1,2 @@
+C:\Users\m0ham\Desktop\Test\C++\ComputerGraphics\Project\x64\Debug\Project.exe
+E:\Project\x64\Debug\Project.exe
